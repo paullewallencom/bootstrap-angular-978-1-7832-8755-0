@@ -1,0 +1,5 @@
+To fire up the backend, cd into the directory and run the following from your terminal
+
+php artisan serve
+
+This will start serving the application at http://localhost:8000 so make sure your frontend is running on a different port.

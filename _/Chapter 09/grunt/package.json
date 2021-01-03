@@ -1,0 +1,10 @@
+{
+  "name": "ContactsMgr",
+  "version": "1.0.0",
+  "description": "A simple contacts manager in AngularJS + Bootstrap",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}

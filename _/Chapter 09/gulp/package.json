@@ -1,0 +1,12 @@
+{
+  "name": "ContactsMgr",
+  "version": "1.0.0",
+  "description": "A simple contacts manager in AngularJS + Bootstrap",
+  "dependencies": {
+    "gulp": "~3.6.0"
+  },
+  "devDependencies": {
+    "gulp-uglify": "^0.2.1",
+    "gulp-concat": "^2.2.0"
+  }
+}
